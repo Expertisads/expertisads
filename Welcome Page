@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenue sur ExpertisADS</title>
+    <style>
+        /* Style du bouton */
+        .button {
+            background-color: #4CAF50; /* Couleur du bouton */
+            color: white;
+            padding: 15px 32px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .button:hover {
+            background-color: #45a049; /* Changement de couleur au survol */
+        }
+    </style>
+</head>
+<body>
+    <h1>Bienvenue sur ExpertisADS</h1>
+    <p>Optimisation et gestion de campagnes Google Ads.</p>
+    
+    <!-- Bouton d'incitation à l'action -->
+    <a href="https://bit.ly/Reserver-Un-Creneau" class="button" target="_blank">Prenez rendez-vous avec nous</a>
+</body>
+</html>
